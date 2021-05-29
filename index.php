@@ -33,5 +33,9 @@ class Booger extends Feature {
 
 }
 
-$kid = new booger( 'Billy' );
-var_dump( $kid );
+//require_once 'Comment.php';
+//require_once 'Feature.php';
+//require_once 'Booger.php';
+
+//$kid = new booger( 'Billy' );
+//$kid->do();
